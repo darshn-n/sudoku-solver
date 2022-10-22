@@ -15,7 +15,7 @@ You can clone by copy and pasting below commands in your Terminal.
 Project Folder Structure
 
 ```
-📦SUDOKU-SOLVER
+SUDOKU-SOLVER
  ┣ index.html
  ┣ sudoku.js
  ┣ logo.png
